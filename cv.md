@@ -19,7 +19,11 @@ ___
 
 #### About me
 
- My IT career started in my second year at university. True, at that time it was a non-technical specialty. I studied at the Faculty of Marketing, took a special course on SEO website optimization, and got a job as a Marketer in an IT company. After that, I decided to try my hand at design. I mastered 3D modeling and tripled to work in an interior design studio. At the same time, I was interested in photography. I organized my creativity for fashion magazines and commerce. I also did retouching. At the moment, I really want to learn Frontend development and become a specialist in this field. I hope that my patience, perseverance and the ability to comprehend new information will help me achieve this goal.
+ My IT career started in my second year at university. True, at that time it was a non-technical specialty. I studied at the Faculty of Marketing, took a special course on SEO website optimization, and got a job as a Marketer in an IT company. 
+ 
+ After that, I decided to try my hand at design. I mastered 3D modeling and tripled to work in an interior design studio. At the same time, I was interested in photography. I organized my creativity for fashion magazines and commerce. I also did retouching. 
+ 
+ At the moment, I really want to learn Frontend development and become a specialist in this field. I hope that my patience, perseverance and the ability to comprehend new information will help me achieve this goal.
 
 ___
 
@@ -34,7 +38,8 @@ ___
 
 #### Code example
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 
 <html>
 
@@ -50,7 +55,8 @@ ___
 
 </body>
 
-</html>```
+</html>
+```
 
 ___
 
